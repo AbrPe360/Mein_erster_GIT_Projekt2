@@ -1,2 +1,3 @@
 Hallo, ich bin Pedro
 Notiz: Ich arbeite gerade an meiner ersten Git-Aufgaben.
+Klasse: 3TPIF
